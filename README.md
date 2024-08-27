@@ -1,4 +1,3 @@
-![logo](https://github.com/ayushpharande5101/ayushpharande5101/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Pharande</h1>
 <h3 align="center">Passionate Robotics Enthusiast from India</h3>
 
