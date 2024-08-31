@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Pharande</h1>
 <h3 align="center">Passionate Robotics Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/60fe31db-01da-4002-adef-f15b0851c0f4)">
+<img align="right" alt="coding" width="400" src="[[[![image](https://github.com/user-attachments/assets/60fe31db-01da-4002-adef-f15b0851c0f4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpr--245235142202414654%2F&psig=AOvVaw2sESynEapQUfWK4v2KL_US&ust=1725221507230000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCPDav-WFoIgDFQAAAAAdAAAAABC-AQ)](https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif)](https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif)">
 
 - 🔭 I’m currently working on [3 axis robot](https://rb.gy/czzzfk)
 
