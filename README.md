@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pharande</h1>
-<h3 align="center">Passionate Robotics Enthusiast from India</h3>
+<h3 align="center">Passionate Robotics Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif">
 
