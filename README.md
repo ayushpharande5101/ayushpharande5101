@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif">
 
-- 🔭 I’m currently working on [3 axis robot](https://rb.gy/czzzfk)
+- 🔭 I’m currently working on FANUC Robot and Ignition SCADA.
 
 - 🌱 I’m currently learning **Navigation stack ROS2**
 
