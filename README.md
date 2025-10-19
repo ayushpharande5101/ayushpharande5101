@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Navigation stack ROS2**
 
-- 📫 How to reach me **ayushpharande5101@gmail.com**
+- 📫 How to reach me **aspharan@mtu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
